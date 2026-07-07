@@ -77,15 +77,6 @@ The Hospital Emergency Room Dashboard is an Excel-based data analysis project de
 \- Most referrals were not assigned to a specific department, while General Practice received the highest number of referrals among departments.
 
 
-
-\## Dashboard Preview
-
-
-
-!\[Hospital Emergency Room Dashboard](Screenshots/dashboard.png)
-
-
-
 \## Files Included
 
 \- Hospital\_Emergency\_Room\_Dashboard.xlsx
